@@ -47,4 +47,6 @@ Se o usuário digitasse a URL com espaços em branco nas pontas, a sanitização
 
 <img width="821" height="112" alt="image" src="https://github.com/user-attachments/assets/d3ee2926-9cca-450f-a9c1-afe4c172c856" />
 
+<br>
+<br>
 <img width="837" height="120" alt="Captura de tela 2026-06-07 152455" src="https://github.com/user-attachments/assets/35d09bda-3cf9-4c65-a81c-5a28687b3be7" />
